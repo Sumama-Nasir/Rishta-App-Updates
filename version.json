@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.1.0",
-  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.1.0/RishtaFinder.apk",
-  "changelog": "• Added Urdu caste and maslak suggestions\n• Smart auto-formatting for height\n• Performance improvements"
+  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.1.1/RishtaFinder.apk",
+  "changelog": "•Fix the pic share problem \n"
 }

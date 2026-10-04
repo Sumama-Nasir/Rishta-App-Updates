@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.6",
-  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.1.6/RishtaFinder.apk",
-  "changelog": "Update error fix"
+  "versionCode": 11,
+  "versionName": "1.1.7",
+  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.1.7/RishtaFinder-v1.1.7.apk",
+  "changelog": "• Added Contacts picker icon on all phone & WhatsApp fields\n• Updated Rishta Finder logo & official Google Sign-In button\n• Added WebP image compression & multi-tier caching"
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.1",
-  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.2.1/RishtaFinder-v1.2.1.apk",
-  "changelog": "• Removed SMS OTP across the entire app — Email OTP (Firebase + Brevo) is now used exclusively for registration and password reset.\n• Enforced 12–64 character password policy (uppercase, lowercase, numeric, special character) with Require/Notify modes and Force Upgrade on Sign-In.\n• Added 3-tier anti-abuse rate limiting (Per IP: 8 sign-ups/hr, Per Device ID: 2 sign-ups/hr, Per Email/Phone: 4 OTP requests/hr)."
+  "versionCode": 16,
+  "versionName": "1.2.2",
+  "downloadUrl": "https://github.com/Sumama-Nasir/Rishta-App-Updates/releases/download/v1.2.2/RishtaFinder.apk",
+  "changelog": "make everything simple to use"
 }
 
